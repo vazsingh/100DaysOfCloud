@@ -2,33 +2,37 @@
   <img src="banner.png">
 </p>
 
-## The Challenge
-1. Read about the challenge and register at [#100DaysOfCloud.com](https://100DaysOfCloud.com)
-2. Join the [Discord Channel](https://discord.gg/c6Db8nY)
-3. Copy the [100DaysOfCloud/100DaysOfCloud Journey Template](https://github.com/100DaysOfCloud/100DaysOfCloud/generate)
-4. Use the [Micro](Templates/000-DAY-ARTICLE-MICRO-TEMPLATE.md), [Short](Templates/001-DAY-ARTICLE-SHORT-TEMPLATE.md) or [Long](Templates/002-DAY-ARTICLE-LONG-TEMPLATE.md) Day Journey Template and document your day-to-day progress.
-5. Update your main README to link back to your Day Journey article
-4. If you need ideas go to [#100DaysOfCloudIdeas](https://github.com/100DaysOfCloud/100DaysOfCloudIdeas)
+## Vaz Singh's Cloud Journey☁️🚀
 
-## How to use this template:
-Fill in your details where you see this icon ✍️
-We have provided a sample Day Journey entry staring at 0. You can delete this example.
+My name is Vaz Singh, and I currently work as a Desktop Support Analyst for an educational institution here in the United Kingdom. 
 
-## [✍️ Your Name]'s Cloud Journey
+I have started this challenge as a way to expand my knowledge and learn new skills. I have already achieved some certifications including:
+- AZ-900: Microsoft Azure Fundamentals
+- SC-900: Microsoft Security, Compliance, and Identity Fundamentals
+- IBM Cloud Essentials
+- Google IT Support Professional Certificate
 
-[✍️ Introduce yourself]
+[View all my certificates on Credly](https://www.credly.com/users/varinder-bola/badges)
 
-[✍️ Tell us why you started this challenge]
 
-[✍️ Tell us where you want to be at the end of the challenge]
+At the end of this challenge, I'd like to:
+- Be fluent in Microsoft Azure
+- Knowledgeable on Ansible and Terraform
+- Build pipelines using Azure DevOps, GitHub actions, and Jenkins
+- Get some more hands on experience with containers
+- Attempt the [AZ-104 Microsoft Azure Administrator](https://docs.microsoft.com/en-us/certifications/exams/az-104) exam
+- Be ready for the [Cloud Resume Challenge](https://cloudresumechallenge.dev/)
 
-- [✍️ Link to your Twitter](https://twitter.com/username)
-- [✍️ Link to your LinkedIn](https://www.linkedin.com/in/username)
+- [Follow me on Twitter @VazDoesTech](https://twitter.com/vazdoestech)
+- [Connect with me on LinkedIn](https://www.linkedin.com/in/vazsingh/)
+- [Check out my blog at https://vazsingh.hashnode.dev]()
+- [Subscribe to my YouTube channel]()
+
 
 ## Stepping out the door
 
-- [ ] ☁️ 1 > [My First Day](Journey/001/Readme.md)
-- [ ] ☁️ 2 > [](Journey/002/Readme.md)
+- [ ] ☁️ 1 > [Day 1](Journey/001/Readme.md)
+- [ ] ☁️ 2 > [Day 2](Journey/002/Readme.md)
 - [ ] ☁️ 3 > [](Journey/003/Readme.md)
 - [ ] ☁️ 4 > [](Journey/004/Readme.md)
 - [ ] ☁️ 5 > [](Journey/005/Readme.md)
