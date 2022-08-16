@@ -25,15 +25,15 @@ At the end of this challenge, I'd like to:
 
 - [Follow me on Twitter @VazDoesTech](https://twitter.com/vazdoestech)
 - [Connect with me on LinkedIn](https://www.linkedin.com/in/vazsingh/)
-- [Check out my blog at https://vazsingh.hashnode.dev]()
-- [Subscribe to my YouTube channel]()
+- [Check out my blog on Hashnode](https://vazsingh.hashnode.dev])
+- [Subscribe to my YouTube channel](https://www.youtube.com/channel/UCMHRgKXKe5XvxAgfzIDCrAg)
 
 
 ## Stepping out the door
 
-- [ ] ☁️ 1 > [Day 1](Journey/001/Readme.md)
-- [ ] ☁️ 2 > [Day 2](Journey/002/Readme.md)
-- [ ] ☁️ 3 > [](Journey/003/Readme.md)
+- [x] ☁️ 1 > [Day 1](Journey/001/Readme.md)
+- [x] ☁️ 2 > [Day 2](Journey/002/Readme.md)
+- [x] ☁️ 3 > [Day 3](Journey/003/Readme.md)
 - [ ] ☁️ 4 > [](Journey/004/Readme.md)
 - [ ] ☁️ 5 > [](Journey/005/Readme.md)
 - [ ] ☁️ 6 > [](Journey/006/Readme.md)

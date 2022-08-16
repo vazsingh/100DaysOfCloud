@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Today I made a start with the Microsoft Azure Administrator (AZ-104) course by  on [CBT Nuggets](https://www.cbtnuggets.com/).
+Today I made a start with the Microsoft Azure Administrator (AZ-104) course on [CBT Nuggets](https://www.cbtnuggets.com/).
 
 ## What I've done today
 
