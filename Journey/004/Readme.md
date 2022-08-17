@@ -1,52 +1,27 @@
-**Add a cover photo like:**
-![placeholder image](https://via.placeholder.com/1200x600)
+# Vaz Singh's 100DaysOfCloud Day [#4/100]
 
-# New post title here
+## What I've done today
 
-## Introduction
+Today I focused on the [Manage identities and governance in Azure](https://docs.microsoft.com/en-us/learn/paths/az-104-manage-identities-governance/) section of the AZ-104 pathway.
 
-✍️ (Why) Explain in one or two sentences why you choose to do this project or cloud topic for your day's study.
+In particular I completed the following modules:
+- [x] Configure Azure Active Directory
+- [x] Configure user and group accounts
 
-## Prerequisite
+I also completed [lab 01 - Managing Azure Active Directory Identities](https://microsoftlearning.github.io/AZ-104-MicrosoftAzureAdministrator/Instructions/Labs/LAB_01-Manage_Azure_AD_Identities.html) which is part of Microsoft's official courseware. You can  find all of the AZ-104 labs [here](https://microsoftlearning.github.io/AZ-104-MicrosoftAzureAdministrator/) for each module.
 
-✍️ (What) Explain in one or two sentences the base knowledge a reader would need before describing the the details of the cloud service or topic.
+I will be trying to incorporate more labs in my study programme. I am not particularly concerned about rushing through this challenge. I am using opportunity to learn and it does me no favours to rush through it if I don't understand what's happening.
 
-## Use Case
+## Learning Outcome
 
-- 🖼️ (Show-Me) Create an graphic or diagram that illustrate the use-case of how this knowledge could be applied to real-world project
-- ✍️ (Show-Me) Explain in one or two sentences the use case
+Today I put into practice some of my learning. It was nice to finally 'play around' in the Azure portal.
 
-## Cloud Research
-
-- ✍️ Document your trial and errors. Share what you tried to learn and understand about the cloud topic or while completing micro-project.
-- 🖼️ Show as many screenshot as possible so others can experience in your cloud research.
-
-## Try yourself
-
-✍️ Add a mini tutorial to encourage the reader to get started learning something new about the cloud.
-
-### Step 1 — Summary of Step
-
-![Screenshot](https://via.placeholder.com/500x300)
-
-### Step 1 — Summary of Step
-
-![Screenshot](https://via.placeholder.com/500x300)
-
-### Step 3 — Summary of Step
-
-![Screenshot](https://via.placeholder.com/500x300)
-
-## ☁️ Cloud Outcome
-
-✍️ (Result) Describe your personal outcome, and lessons learned.
-
-## Next Steps
-
-✍️ Describe what you think you think you want to do next.
+In the lab I:
+- [x] Created and configured Azure AD users
+- [x] Created Azure AD groups with assigned and dynamic membership
+- [x] Created an Azure Active Directory (AD) tenant
+- [x] Managed Azure AD guest users
 
 ## Social Proof
 
-✍️ Show that you shared your process on Twitter or LinkedIn
-
-[link](link)
+[Twitter - Day #4](https://twitter.com/VazDoesTech/status/1559941388501909504)

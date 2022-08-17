@@ -25,7 +25,7 @@ At the end of this challenge, I'd like to:
 
 - [Follow me on Twitter @VazDoesTech](https://twitter.com/vazdoestech)
 - [Connect with me on LinkedIn](https://www.linkedin.com/in/vazsingh/)
-- [Check out my blog on Hashnode](https://vazsingh.hashnode.dev])
+- [Check out my blog on Hashnode](https://vazsingh.hashnode.dev)
 - [Subscribe to my YouTube channel](https://www.youtube.com/channel/UCMHRgKXKe5XvxAgfzIDCrAg)
 
 
