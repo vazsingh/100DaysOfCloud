@@ -1,52 +1,42 @@
-**Add a cover photo like:**
-![placeholder image](https://via.placeholder.com/1200x600)
+# Vaz Singh's 100DaysOfCloud Day [#5/100]
 
-# New post title here
+## What I've done today
 
-## Introduction
+Today I completed three more modules on the AZ-104 learning pathway:
 
-✍️ (Why) Explain in one or two sentences why you choose to do this project or cloud topic for your day's study.
+- [x] [Configure subscriptions](https://docs.microsoft.com/en-gb/learn/modules/configure-subscriptions/?ns-enrollment-type=learningpath&ns-enrollment-id=learn.az-104-manage-identities-governance)
 
-## Prerequisite
+- [x] [Configure Azure policy](https://docs.microsoft.com/en-gb/learn/modules/configure-azure-policy/?ns-enrollment-type=learningpath&ns-enrollment-id=learn.az-104-manage-identities-governance)
 
-✍️ (What) Explain in one or two sentences the base knowledge a reader would need before describing the the details of the cloud service or topic.
+- [x] [Configure role-based access control](https://docs.microsoft.com/en-gb/learn/modules/configure-role-based-access-control/?ns-enrollment-type=learningpath&ns-enrollment-id=learn.az-104-manage-identities-governance)
 
-## Use Case
+I also competed two labs from the [official Microsoft courseware](https://microsoftlearning.github.io/AZ-104-MicrosoftAzureAdministrator/):
 
-- 🖼️ (Show-Me) Create an graphic or diagram that illustrate the use-case of how this knowledge could be applied to real-world project
-- ✍️ (Show-Me) Explain in one or two sentences the use case
+- [x] [02a - Manage Subscriptions and RBAC](https://microsoftlearning.github.io/AZ-104-MicrosoftAzureAdministrator/Instructions/Labs/LAB_02a_Manage_Subscriptions_and_RBAC.html)
 
-## Cloud Research
+- [x] [02b - Manage Governance via Azure Policy](https://microsoftlearning.github.io/AZ-104-MicrosoftAzureAdministrator/Instructions/Labs/LAB_02b-Manage_Governance_via_Azure_Policy.html)
 
-- ✍️ Document your trial and errors. Share what you tried to learn and understand about the cloud topic or while completing micro-project.
-- 🖼️ Show as many screenshot as possible so others can experience in your cloud research.
+I found that I couldn't always follow all the steps instructions in the labs as described as the Azure Portal GUI appears to have been updated. I guess this highlights how important it is to write documentation that can stand the test of time.
 
-## Try yourself
+A lot of the material I've covered this week has been 'fundamental' and 'basic' but I want to make sure this stuff is comprehensively covered so that I have a strong understanding of it when we get into the more advance stuff.
 
-✍️ Add a mini tutorial to encourage the reader to get started learning something new about the cloud.
+I am concious that I've not been including many photos, screenshots or diagrams in these journals. To be honest, at the moment I don't have much time to comprehensively record every step of what I am doing. I hope to provide diagrams once we get into the more advance stuff.
 
-### Step 1 — Summary of Step
+Until then...
+![](notime.gif)
 
-![Screenshot](https://via.placeholder.com/500x300)
 
-### Step 1 — Summary of Step
+## Learning Outcome
 
-![Screenshot](https://via.placeholder.com/500x300)
 
-### Step 3 — Summary of Step
-
-![Screenshot](https://via.placeholder.com/500x300)
-
-## ☁️ Cloud Outcome
-
-✍️ (Result) Describe your personal outcome, and lessons learned.
-
-## Next Steps
-
-✍️ Describe what you think you think you want to do next.
+Lab outcomes:
+- Created and assigned tags via the Azure portal
+- Enforced tagging via an Azure policy
+- Applied tagging via an Azure policy
+- Implemented Management Groups
+- Created custom RBAC roles
+- Assigned RBAC roles
 
 ## Social Proof
 
-✍️ Show that you shared your process on Twitter or LinkedIn
-
-[link](link)
+[Twitter - Day #5](https://twitter.com/VazDoesTech/status/1560166352131956736)

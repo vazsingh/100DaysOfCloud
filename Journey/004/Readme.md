@@ -1,42 +1,27 @@
-# Vaz Singh's 100DaysOfCloud Day [#5/100]
+# Vaz Singh's 100DaysOfCloud Day [#4/100]
 
 ## What I've done today
 
-Today I completed three more modules on the AZ-104 learning pathway:
+Today I focused on the [Manage identities and governance in Azure](https://docs.microsoft.com/en-us/learn/paths/az-104-manage-identities-governance/) section of the AZ-104 pathway.
 
-- [x] [Configure subscriptions](https://docs.microsoft.com/en-gb/learn/modules/configure-subscriptions/?ns-enrollment-type=learningpath&ns-enrollment-id=learn.az-104-manage-identities-governance)
+In particular I completed the following modules:
+- [x] Configure Azure Active Directory
+- [x] Configure user and group accounts
 
-- [x] [Configure Azure policy](https://docs.microsoft.com/en-gb/learn/modules/configure-azure-policy/?ns-enrollment-type=learningpath&ns-enrollment-id=learn.az-104-manage-identities-governance)
+I also completed [lab 01 - Managing Azure Active Directory Identities](https://microsoftlearning.github.io/AZ-104-MicrosoftAzureAdministrator/Instructions/Labs/LAB_01-Manage_Azure_AD_Identities.html) which is part of Microsoft's official courseware. You can  find all of the AZ-104 labs [here](https://microsoftlearning.github.io/AZ-104-MicrosoftAzureAdministrator/) for each module.
 
-- [x] [Configure role-based access control](https://docs.microsoft.com/en-gb/learn/modules/configure-role-based-access-control/?ns-enrollment-type=learningpath&ns-enrollment-id=learn.az-104-manage-identities-governance)
-
-I also competed two labs from the [official Microsoft courseware](https://microsoftlearning.github.io/AZ-104-MicrosoftAzureAdministrator/):
-
-- [x] [02a - Manage Subscriptions and RBAC](https://microsoftlearning.github.io/AZ-104-MicrosoftAzureAdministrator/Instructions/Labs/LAB_02a_Manage_Subscriptions_and_RBAC.html)
-
-- [x] [02b - Manage Governance via Azure Policy](https://microsoftlearning.github.io/AZ-104-MicrosoftAzureAdministrator/Instructions/Labs/LAB_02b-Manage_Governance_via_Azure_Policy.html)
-
-I found that I couldn't always follow all the steps instructions in the labs as described as the Azure Portal GUI appears to have been updated. I guess this highlights how important it is to write documentation that can stand the test of time.
-
-A lot of the material I've covered this week has been 'fundamental' and 'basic' but I want to make sure this stuff is comprehensively covered so that I have a strong understanding of it when we get into the more advance stuff.
-
-I am concious that I've not been including many photos, screenshots or diagrams in these journals. To be honest, at the moment I don't have much time to comprehensively record every step of what I am doing. I hope to provide diagrams once we get into the more advance stuff.
-
-Until then...
-![](notime.gif)
-
+I will be trying to incorporate more labs in my study programme. I am not particularly concerned about rushing through this challenge. I am using opportunity to learn and it does me no favours to rush through it if I don't understand what's happening.
 
 ## Learning Outcome
 
+Today I put into practice some of my learning. It was nice to finally 'play around' in the Azure portal.
 
-Lab outcomes:
-- Created and assigned tags via the Azure portal
-- Enforced tagging via an Azure policy
-- Applied tagging via an Azure policy
-- Implemented Management Groups
-- Created custom RBAC roles
-- Assigned RBAC roles
+In the lab I:
+- [x] Created and configured Azure AD users
+- [x] Created Azure AD groups with assigned and dynamic membership
+- [x] Created an Azure Active Directory (AD) tenant
+- [x] Managed Azure AD guest users
 
 ## Social Proof
 
-[Twitter - Day #5](https://twitter.com/VazDoesTech/status/1560166352131956736)
+[Twitter - Day #4](https://twitter.com/VazDoesTech/status/1559941388501909504)
