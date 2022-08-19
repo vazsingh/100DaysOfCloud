@@ -23,6 +23,7 @@ A lot of the material I've covered this week has been 'fundamental' and 'basic' 
 I am concious that I've not been including many photos, screenshots or diagrams in these journals. To be honest, at the moment I don't have much time to comprehensively record every step of what I am doing. I hope to provide diagrams once we get into the more advance stuff.
 
 Until then...
+
 ![](notime.gif)
 
 
