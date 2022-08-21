@@ -1,52 +1,17 @@
-**Add a cover photo like:**
-![placeholder image](https://via.placeholder.com/1200x600)
+# Vaz Singh's 100DaysOfCloud Day [#8/100]
 
-# New post title here
+## What I've done today
 
-## Introduction
+Today I spent some time on the AZ-104 learning pathway looking at securing Azure resources with Azure role-based access control (Azure RBAC). I must admit, with the sun out it wasn't an intense study session today.
 
-✍️ (Why) Explain in one or two sentences why you choose to do this project or cloud topic for your day's study.
+As highlighted earlier in this week, some of the current content (and certainly the stuff covered this week) has been a recap of the previous learning I did for the AZ-900 and SC-900 exams.
 
-## Prerequisite
+Frustratingly the sandbox labs provided on the Microsoft Learn website didn't work for me today either. Hopefully these will be back up and running soon.
 
-✍️ (What) Explain in one or two sentences the base knowledge a reader would need before describing the the details of the cloud service or topic.
+![](rbac_unavailable.jpg) 
 
-## Use Case
-
-- 🖼️ (Show-Me) Create an graphic or diagram that illustrate the use-case of how this knowledge could be applied to real-world project
-- ✍️ (Show-Me) Explain in one or two sentences the use case
-
-## Cloud Research
-
-- ✍️ Document your trial and errors. Share what you tried to learn and understand about the cloud topic or while completing micro-project.
-- 🖼️ Show as many screenshot as possible so others can experience in your cloud research.
-
-## Try yourself
-
-✍️ Add a mini tutorial to encourage the reader to get started learning something new about the cloud.
-
-### Step 1 — Summary of Step
-
-![Screenshot](https://via.placeholder.com/500x300)
-
-### Step 1 — Summary of Step
-
-![Screenshot](https://via.placeholder.com/500x300)
-
-### Step 3 — Summary of Step
-
-![Screenshot](https://via.placeholder.com/500x300)
-
-## ☁️ Cloud Outcome
-
-✍️ (Result) Describe your personal outcome, and lessons learned.
-
-## Next Steps
-
-✍️ Describe what you think you think you want to do next.
+>Fun fact:  Azure RBAC has more than 70 built-in roles
 
 ## Social Proof
 
-✍️ Show that you shared your process on Twitter or LinkedIn
-
-[link](link)
+[Twitter - Day #8](https://twitter.com/VazDoesTech/status/1561255532564041733)
