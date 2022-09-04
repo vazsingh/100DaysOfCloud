@@ -1,52 +1,15 @@
-**Add a cover photo like:**
-![placeholder image](https://via.placeholder.com/1200x600)
+# Vaz Singh's 100DaysOfCloud Day [#10/100]
 
-# New post title here
+## What I've done today
 
-## Introduction
+Let me start by saying that I am absolutely gutted to have failed my continuous cloud streak. 
 
-✍️ (Why) Explain in one or two sentences why you choose to do this project or cloud topic for your day's study.
+At the outset of this challenge I was adamant that I will study every single day even if it was just a little bit but the reality is that it's incredibly difficult to balance work, live and other commitments.
 
-## Prerequisite
+Today I went back and created a new tenant in Microsoft Azure. In the new tenant I enabled the settings to allow users to reset their password with Azure Active Directory self-service password reset.
 
-✍️ (What) Explain in one or two sentences the base knowledge a reader would need before describing the the details of the cloud service or topic.
-
-## Use Case
-
-- 🖼️ (Show-Me) Create an graphic or diagram that illustrate the use-case of how this knowledge could be applied to real-world project
-- ✍️ (Show-Me) Explain in one or two sentences the use case
-
-## Cloud Research
-
-- ✍️ Document your trial and errors. Share what you tried to learn and understand about the cloud topic or while completing micro-project.
-- 🖼️ Show as many screenshot as possible so others can experience in your cloud research.
-
-## Try yourself
-
-✍️ Add a mini tutorial to encourage the reader to get started learning something new about the cloud.
-
-### Step 1 — Summary of Step
-
-![Screenshot](https://via.placeholder.com/500x300)
-
-### Step 1 — Summary of Step
-
-![Screenshot](https://via.placeholder.com/500x300)
-
-### Step 3 — Summary of Step
-
-![Screenshot](https://via.placeholder.com/500x300)
-
-## ☁️ Cloud Outcome
-
-✍️ (Result) Describe your personal outcome, and lessons learned.
-
-## Next Steps
-
-✍️ Describe what you think you think you want to do next.
+It's pretty easy and straight forward - although, I'm still figuring out how to fully delete the self-service product and tenant(!)
 
 ## Social Proof
 
-✍️ Show that you shared your process on Twitter or LinkedIn
-
-[link](link)
+[Twitter - Day #10](https://twitter.com/VazDoesTech/status/1566516116939472896)

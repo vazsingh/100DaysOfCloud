@@ -40,7 +40,7 @@ At the end of this challenge, I'd like to:
 - [x] ☁️ 7 > [Day 7](Journey/007/Readme.md)
 - [x] ☁️ 8 > [Day 8](Journey/008/Readme.md)
 - [x] ☁️ 9 > [Day 9](Journey/009/Readme.md)
-- [ ] ☁️ 10 > [](Journey/010/Readme.md)
+- [x] ☁️ 10 > [Day 10](Journey/010/Readme.md)
 
 ## Walking down the road
 
